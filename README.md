@@ -1,2 +1,3 @@
 # Visualizzazione-Scientifica
-progetto Universitario con il collega Mattia Oldani
+
+Progetto universitario per il corso di Visualizzazione Scientifica con il collega [Mattia Oldani](https://github.com/MattiaOldani)
