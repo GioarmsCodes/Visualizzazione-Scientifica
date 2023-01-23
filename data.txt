@@ -1,0 +1,15 @@
+https://insights.stackoverflow.com/survey/2021#developer-type;dev-type
+https://insights.stackoverflow.com/survey/2021#writing-that-first-line-of-code;age-1-st-code
+https://insights.stackoverflow.com/survey/2021#demographics-gender;gender
+
+https://insights.stackoverflow.com/survey/2019#developer-profile-_-contributing-to-open-source;developer-profile-developer-roles-all-respondents3
+https://insights.stackoverflow.com/survey/2019#developer-profile-_-contributing-to-open-source;developer-profile-developer-roles-all-respondents2
+
+https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved;technology-most-loved-dreaded-and-wanted-languages-loved
+https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-dreaded;technology-most-loved-dreaded-and-wanted-languages-dreaded
+https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted;technology-most-loved-dreaded-and-wanted-languages-wanted
+https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-platforms-loved5;technology-most-loved-dreaded-and-wanted-platforms-loved5
+https://insights.stackoverflow.com/survey/2020#technology-developers-primary-operating-systems;technology-developers-primary-operating-systems-professional-developers
+https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-global;technology-what-languages-are-associated-with-the-highest-salaries-worldwide-global
+https://insights.stackoverflow.com/survey/2020#technology-what-do-you-do-when-you-get-stuck;technology-what-do-you-do-when-you-get-stuck-what-do-you-do-when-you-get-stuck
+https://insights.stackoverflow.com/survey/2020#technology-collaboration-tools-all-respondents;technology-collaboration-tools-all-respondents
